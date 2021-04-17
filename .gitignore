@@ -32,7 +32,6 @@
 .byebug_history
 
 # Ignore environment configuration.
-.env
 env
 
 # Ignore yarn configs
