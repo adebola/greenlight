@@ -326,7 +326,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your Ascend web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "%{href} is a web web conferencing solution for Highlife Church. You can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to Ascend.
     video: Watch our tutorial on using Ascend
     upgrade: Show me how to upgrade to 2.0!
