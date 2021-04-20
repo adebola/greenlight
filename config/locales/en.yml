@@ -83,7 +83,7 @@ en:
         fatal: Fatal
         unknown: Unknown
       recording_visibility:
-        info: Set the default recording visbility for new recordings
+        info: Set the default recording visibility for new recordings
         title: Recording Default Visibility
         warning: This setting will only be applied to rooms that aren't running
       require_consent:
@@ -96,8 +96,8 @@ en:
         clear: Clear
         time: "Example: Update scheduled on December 13 @ 23:00 ET. Users may experience problems signing in."
       preupload:
-        info: Users can preupload a presentation to be used as the default presentation for that specific room
-        title: Allow Users to Preupload Presentations
+        info: Users can pre-upload a presentation to be used as the default presentation for that specific room
+        title: Allow Users to Pre-upload Presentations
       registration:
         info: Change the way that users register to the website
         title: Registration Method
@@ -257,10 +257,10 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
+        Ascend encountered a database migration error.<br>
         This may be because you haven't updated to Greenlight 2.0.
       upgrade: Show me how to upgrade to 2.0!
-      version: We've released a new version of Greenlight, but your database isn't compatible.
+      version: We've released a new version of Ascend, but your database isn't compatible.
     messages:
       blank: can't be blank
       too_short: is too short
@@ -271,7 +271,7 @@ en:
       inclusion: is not included in the list
     no_provider:
       message: The site you are trying to access is not enabled
-      help: Please contact your system administrator to setup Greenlight
+      help: Please contact your system administrator to setup Ascend
     not_found:
       message: Sorry! The page you are looking for does not exist.
       help: Is it possible its been removed?
@@ -301,7 +301,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Ascend
   header:
     all_recordings: All Recordings
     dropdown:
