@@ -33,6 +33,7 @@
 
 # Ignore environment configuration.
 env
+.env
 
 # Ignore yarn configs
 /node_modules
